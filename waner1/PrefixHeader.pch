@@ -1,0 +1,18 @@
+//
+//  PrefixHeader.pch
+//  waner1
+//
+//  Created by 金硕 on 16/3/29.
+//  Copyright © 2016年 waner1. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+#ifdef __OBJC__
+#import <MagicalRecord/MagicalRecord.h>
+#endif
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */

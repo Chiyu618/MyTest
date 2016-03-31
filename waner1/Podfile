@@ -1,0 +1,19 @@
+xcodeproj 'waner1.xcodeproj'
+
+# Uncomment this line to define a global platform for your project
+# platform :ios, '8.0'
+# Uncomment this line if you're using Swift
+# use_frameworks!
+
+target 'waner1' do
+pod ‘MagicalRecord’
+end
+
+target 'waner1Tests' do
+
+end
+
+target 'waner1UITests' do
+
+end
+
